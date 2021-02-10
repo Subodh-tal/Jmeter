@@ -50,6 +50,10 @@
                 <stringProp name="Header.name">content-type</stringProp>
                 <stringProp name="Header.value">application/json</stringProp>
               </elementProp>
+              <elementProp name="" elementType="Header">
+                <stringProp name="Header.name">asd</stringProp>
+                <stringProp name="Header.value">adad</stringProp>
+              </elementProp>
             </collectionProp>
           </HeaderManager>
           <hashTree/>
